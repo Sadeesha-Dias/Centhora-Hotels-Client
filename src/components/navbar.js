@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className='login-register'>
           <ul>
             <li>
-              <Link className="" to="/login">Login</Link>
+              <Link className="" to="/centhora/user/login">Login</Link>
             </li>
             <li>
               <Link className="" to="/register">Register</Link>
